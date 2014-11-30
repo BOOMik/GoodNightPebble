@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "BOOMik",
+    "longName": "Good night. Battery long life.",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/partly_cloudy_night.png",
+                "name": "NIGHT",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Good night. Battery long life.",
+    "uuid": "3007d936-5cc7-4862-84b8-3c1259e6766a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
